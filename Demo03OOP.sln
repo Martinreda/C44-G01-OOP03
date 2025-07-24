@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo03OOP", "Demo03OOP\Demo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assinggmnet03OOP", "Assinggmnet03OOP\Assinggmnet03OOP.csproj", "{CA2996F2-349F-4E6A-A685-51D06991426E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commen", "Commen\Commen.csproj", "{3E513ACC-6C4D-479E-8934-BD1570345041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA2996F2-349F-4E6A-A685-51D06991426E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2996F2-349F-4E6A-A685-51D06991426E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2996F2-349F-4E6A-A685-51D06991426E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E513ACC-6C4D-479E-8934-BD1570345041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E513ACC-6C4D-479E-8934-BD1570345041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E513ACC-6C4D-479E-8934-BD1570345041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E513ACC-6C4D-479E-8934-BD1570345041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
